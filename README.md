@@ -1,2 +1,2 @@
-# Contact-Manger
+# Contact-Manager
 ReactJs - mini Project
